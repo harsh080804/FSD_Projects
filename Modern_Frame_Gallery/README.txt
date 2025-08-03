@@ -1,4 +1,4 @@
-Your Name:Sivaram Vinod
+Your Name:Harsh Parashar
 
 Features Implemented:
 - All HTML pages using semantic structure
@@ -20,3 +20,4 @@ Known Issues:
 Browsers Tested:
 - Google Chrome
 - Mozilla Firefox
+
